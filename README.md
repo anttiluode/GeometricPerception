@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# 🧠 Geometric Perception Engine
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A 3D interactive visualization that transforms your webcam feed into a living, breathing point cloud inhabited by thousands of intelligent "scouts" that respond to your movements.
 
-## Available Scripts
+## ✨ What Is This?
 
-In the project directory, you can run:
+This is an experimental AI perception system that:
+- Converts your webcam into a 3D point cloud in real-time
+- Deploys thousands of colored "scouts" that analyze different aspects of your visual input
+- Creates beautiful, organic patterns as scouts respond to edges, motion, brightness, and colors
+- Lets you explore the 3D space by rotating and zooming around your own digitized presence
 
-### `npm start`
+## 🎮 How to Use
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Allow camera access** when prompted
+2. **Scroll down** to see the main 3D visualization (it appears below the initial interface)
+3. **Move in front of the camera** to see scouts swarm toward your movements
+4. **Drag to rotate** the 3D space around your webcam feed
+5. **Scroll to zoom** in and out
+6. **Toggle scout types** to see different perception modes
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔍 Scout Types
 
-### `npm test`
+- **🟠 Edge Scouts**: Detect and follow sharp boundaries and contrasts
+- **🔵 Motion Scouts**: React to movement and changes in the scene  
+- **⚪ Luminance Scouts**: Respond to brightness and lighting changes
+- **🔴 Color R/G/B Scouts**: Track specific color channels
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🌟 The Magic
 
-### `npm run build`
+Watch as thousands of scouts create swirling, organic patterns that respond to your every gesture. Each scout type perceives the world differently, creating a multi-layered visualization of how computational vision might "see" and understand your presence.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🚀 Live Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**[Try it here!](https://anttiluode.github.io/GeometricPerception)**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*Note: Remember to scroll down to see the main 3D visualization area*
 
-### `npm run eject`
+## 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React + Three.js for 3D rendering
+- WebRTC for webcam access
+- Custom orbit controls for 3D navigation
+- Real-time computer vision processing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Pro Tips
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Wave your hands** for dramatic scout swarms
+- **Try different lighting** to see luminance scouts react
+- **Wear colorful clothing** to activate color-specific scouts
+- **Move closer/farther** to see depth perception in action
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*An exploration of computational perception and the beauty of seeing through artificial eyes.*
