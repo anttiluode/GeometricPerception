@@ -1,5 +1,7 @@
 # 🧠 Geometric Perception Engine
 
+![3D Scouts in action](./3d-scouts.png)
+
 A 3D interactive visualization that transforms your webcam feed into a living, breathing point cloud inhabited by thousands of intelligent "scouts" that respond to your movements.
 
 ## ✨ What Is This?
