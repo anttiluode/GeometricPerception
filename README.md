@@ -2,6 +2,8 @@
 
 ![3D Scouts in action](./3d-scouts.png)
 
+Live at: https://anttiluode.github.io/GeometricPerception/
+
 A 3D interactive visualization that transforms your webcam feed into a living, breathing point cloud inhabited by thousands of intelligent "scouts" that respond to your movements.
 
 ## ✨ What Is This?
